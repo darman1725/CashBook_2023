@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266121640545",
+    "project_id": "mycashbook-fb996",
+    "storage_bucket": "mycashbook-fb996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266121640545:android:73b18cbc4d8271e9260820",
+        "android_client_info": {
+          "package_name": "com.example.mycashbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzmmg1Epf79tVz_GAdpRBTjEql6217r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
